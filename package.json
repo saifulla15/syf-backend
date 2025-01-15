@@ -1,0 +1,15 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "A backend prj started at 15jan25",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "saifulla",
+  "license": "ISC"
+}
